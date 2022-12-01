@@ -25,9 +25,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
-                          ],
-            "scripts": 
+              "src/styles.css",
+              "ProyectoIntegrador-AlejandroOrlandini/ProyectoIntegrador-AlejandroOrlandini/node_modules/bootstrap/dist/css/bootstrap.css"
+            ],
+            "scripts": "ProyectoIntegrador-AlejandroOrlandini/ProyectoIntegrador-AlejandroOrlandini/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
