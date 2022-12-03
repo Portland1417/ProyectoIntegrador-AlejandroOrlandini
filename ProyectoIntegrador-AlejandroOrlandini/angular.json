@@ -26,9 +26,9 @@
             ],
             "styles": [
               "src/styles.css",
-              "ProyectoIntegrador-AlejandroOrlandini/ProyectoIntegrador-AlejandroOrlandini/node_modules/bootstrap/dist/css/bootstrap.css"
+              "ProyectoIntegrador-AlejandroOrlandini/ProyectoIntegrador-AlejandroOrlandini/node_modules/bootstrap/dis/css/bootstrap.css"
             ],
-            "scripts":["ProyectoIntegrador-AlejandroOrlandini/ProyectoIntegrador-AlejandroOrlandini/node_modules/bootstrap/dist/js/bootstrap.js"]
+            "scripts":["ProyectoIntegrador-AlejandroOrlandini/ProyectoIntegrador-AlejandroOrlandini/node_modules/bootstrap/dis/js/bootstrap.js"]
             },
           "configurations": {
             "production": {
